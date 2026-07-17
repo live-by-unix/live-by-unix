@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there, I'm live-by-unix! 
 
-<!--
-**live-by-unix/live-by-unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dev who works fast, debugs fast, pushes fast, all in production.     
 
-Here are some ideas to get you started:
+You will see below my repos, my different dev profiles, my languages, and what I am working on.     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My repos
+These are some repos I would like to highlight:       
+[AccurateClock](https://github.com/live-by-unix/AccurateClock) & [AccurateClock API](https://github.com/live-by-unix/AccurateClock-API) - A humble yet AccurateClock!    
+
+[AgentVCS](https://github.com/live-by-unix/AgentVCS) - A VCS meant for agents    
+
+[VIP Text Editor](https://github.com/live-by-unix/VIP) - A Python based TUI text editor written using `curses`      
+
+[QuickJump](https://github.com/live-by-unix/QuickJump) - A way to "jump" between web pages     
+
+[Marky-Editor](https://github.com/live-by-unix/marky-editor) - A web based markdown editor       
+  
+[Exploding Entites](https://github.com/live-by-unix/exploding-entites) - A Minecraft mod for 1.21.11!        
+
+**And even more repos!**    
+
+## My different dev profiles
+
+[Ollama](https://ollama.com/HyperUnix) - My Ollama   
+
+[Modrinth](https://huggingface.co/TheUnixMaster) - My Modrinth   
+
+[Hugging Face](https://huggingface.co/TheUnixMaster) - My HuggingFace   
+
+[GitLab](https://gitlab.com/live-by-unix) - My GitLab (not that active)    
+
+
+## My languages
+* Python
+* HTML/CSS/JS
+* Rust
+* Java
+* Bash (scripting)
+
+## What I am working on
+Mainly, I am working on websites a lot, but expect a program / chrome extension every once in a while.    
