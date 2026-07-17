@@ -24,7 +24,7 @@ These are some repos I would like to highlight:
 
 [Ollama](https://ollama.com/HyperUnix) - My Ollama   
 
-[Modrinth](https://huggingface.co/TheUnixMaster) - My Modrinth   
+[Modrinth](https://modrinth.com/user/live-by-unix) - My Modrinth   
 
 [Hugging Face](https://huggingface.co/TheUnixMaster) - My HuggingFace   
 
