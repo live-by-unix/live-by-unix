@@ -32,6 +32,8 @@ These are some repos I would like to highlight:
 
 [GitLab](https://gitlab.com/live-by-unix) - My GitLab (not that active)    
 
+[NPM](https://www.npmjs.com/~live-by-unix)
+
 
 ## My languages
 * Python
